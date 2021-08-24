@@ -161,6 +161,10 @@
       "url": "BlazorOne.styles.css"
     },
     {
+      "hash": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "url": ".nojekyll"
+    },
+    {
       "hash": "sha256-6bctwDjUh8qfGlsgBrmaQToLBDw9dEU8dxciBKd+v3E=",
       "url": "css\/app.css"
     },
@@ -233,5 +237,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "nbtHacE2"
+  "version": "mwTS8xPx"
 };
